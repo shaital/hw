@@ -1,0 +1,2 @@
+run server: ts-node server.ts
+db name test
